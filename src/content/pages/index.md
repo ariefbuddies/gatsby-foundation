@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: AriefBHug
 tagline: Webbie
-featuredImage: /assets/tumblr_32951e2a88825aea050041057bdea6cf_8ffa963d_500.jpg
+featuredImage: /assets/01-59-57-enfeaxkxcailq0i.jpg
 cta:
   ctaText: Kepoe
   ctaLink: /about
